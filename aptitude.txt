@@ -1,0 +1,7 @@
+number system,
+ averages, 
+ratio and proportion,
+ percentages, 
+time and distance,
+ mixture and alligation, permutations and combinations, probability, 
+geometry and algebra.
